@@ -29,7 +29,7 @@ paginate = 5
 [languages]
   [languages.en]
     title = "Patrick Ma"
-    subtitle = "A simple theme for Hugo"
+    subtitle = ""
     keywords = ""
     copyright = ""
     menuMore = "Show more"
