@@ -1,4 +1,4 @@
-baseURL = 'http://patrickma.netlify.app/'
+baseURL = 'https://patrickma2022.github.io/SMU1/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "hello-friend"
